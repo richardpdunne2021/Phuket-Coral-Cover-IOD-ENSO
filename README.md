@@ -5,6 +5,8 @@ This folder contains R code and data used for a submission to the journal 'Globa
 The Indian Ocean Dipole and El Niño Southern Oscillation as major drivers of coral cover on shallow reefs in the Andaman Sea. 
 Authors: R.P. Dunne, B.E. Brown, N. Phongsuwan, L. Putchim
 
+All R code was written and run under R version 4.0.3 (2020-10-10) using R Studio.
+
 Contents:
 1. R code - 'Analysis of DMI from NOAA NetCDF data - Fig 1A.R'. This code requires data from the NetCDF file 'dmi to 13 Jan 2021.nc'. It is used to produce Fig 1A in the paper and to output monthly values of DMI to a CSV file for use in the later GAMM models.
 2. Data File - 'dmi to 13 Jan 2021.nc'.3. 
