@@ -3,9 +3,8 @@ Analysis of coral cover on the reef flat at Phuket and the effects of IOD and EN
 
 This folder contains R code and data used for a submission to the journal 'Global Change Biology' for a paper titled:
 
-The Indian Ocean Dipole and El Niño Southern Oscillation as major drivers of coral cover on shallow reefs in the Andaman Sea. 
-
-Authors: R.P. Dunne, B.E. Brown, N. Phongsuwan, L. Putchim
+     The Indian Ocean Dipole and El Niño Southern Oscillation as major drivers of coral cover on shallow reefs in the Andaman Sea
+     Authors: R.P. Dunne, B.E. Brown, N. Phongsuwan, L. Putchim
 
 All R code was written and run under R version 4.0.3 (2020-10-10) using R Studio.
 
