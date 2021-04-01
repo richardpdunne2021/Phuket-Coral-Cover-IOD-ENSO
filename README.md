@@ -12,9 +12,11 @@ Contents:
 1. R code - 'Analysis of DMI from NOAA NetCDF data - Fig 1A.R'. This code requires data from the NetCDF file 'dmi to 13 Jan 2021.nc'. It is used to produce Fig 1A in the paper and to output monthly values of DMI to a CSV file for use in the later GAMM models.
 2. Data File - 'dmi to 13 Jan 2021.nc'.
 3. R code - 'Analysis pf Nino 3.4 from NOAA NetCDF data - Figure 1B.R'. This code requires data from the NetCDF file 'Nino 3.4 to 13 Jan 2020.nc'. It is used to produce Figure 1B in the paper and to output monthly values of Niono 3.4 to a CSV file for use later in the GAMM models.
-4. Data File - 'Nino 3.4 to 13 Jan 2021.nc'.  
-5. R code - 'Plotting of Phototransect Results Figures 5 & 6.R'. This code is used to produce Figures 5 and 6 and requires data from the file 'Coral Cover Phototransects.xlsx'
-6. Data File - 'Coral Cover Phototransects.xlsx'.
-7. R code - 'Phuket CMEMS 008-057 NetCDF data - Grid - Figure S2.R'. This code requires data from the NetCDF file 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'. It is used to produce Figure 2S in the Supplementary Information to the paper. 
-8. Data File - 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'.
+4. Data File - 'Nino 3.4 to 13 Jan 2021.nc'. 
+5. R code - 'Phuket CMEMS 008-057 NetCDF data - GAMM models.R'. This code requires data from the NetCDF file 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc' and 'DMI Nino 3.4 monthly.csv'. It is used to run the GAMM models for the absolute sea level data and to produce Figures 2 and 3 in the paper.
+6. Data File - 'DMI Nino 3.4 monthly to 14 mar 2020.csv'. 
+7. R code - 'Plotting of Phototransect Results Figures 5 & 6.R'. This code is used to produce Figures 5 and 6 and requires data from the file 'Coral Cover Phototransects.xlsx'
+8. Data File - 'Coral Cover Phototransects.xlsx'.
+9. R code - 'Phuket CMEMS 008-057 NetCDF data - Grid - Figure S2.R'. This code requires data from the NetCDF file 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'. It is used to produce Figure 2S in the Supplementary Information to the paper. 
+10. Data File - 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'.
 
