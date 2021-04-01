@@ -8,6 +8,8 @@ This folder contains R code and data used for a submission to the journal 'Globa
 
 All R code was written and run under R version 4.0.3 (2020-10-10) using R Studio.
 
+TO RUN THE R CODE YOU SHOULD DOWNLOAD BOTH THE CODE FILES AND THE DATA AND PLACE THEM IN A SINGLE FILE FOLDER. YOU WILL THEN SEE THAT EACH R CODE FILE STARTS BY ASSIGNING THE FOLDER IN USE. YOU WILL NEED TO CHANGE THIS TO YOUR FOLDER ADDRESS. THE CODE SHOULD THEN RUN WITHOUT ANY PROBLEMS SO LONG AS YOU HAVE ISNTALLED THE NECESSARY PACKAGES ON YOUR VERSION OF R. 
+
 Contents:
 1. R code - 'Analysis of DMI from NOAA NetCDF data - Fig 1A.R'. This code requires data from the NetCDF file 'dmi to 13 Jan 2021.nc'. It is used to produce Fig 1A in the paper and to output monthly values of DMI to a CSV file for use in the later GAMM models.
 2. Data File - 'dmi to 13 Jan 2021.nc'.
