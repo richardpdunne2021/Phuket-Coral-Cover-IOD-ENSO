@@ -20,6 +20,8 @@ Contents:
 9. Data file - DMI Nino 3.4 monthly May 1995 to Jul 2020.csv
 10. R code - 'Plotting of Phototransect Results Figures 5 & 6.R'. This code is used to produce Figures 5 and 6 and requires data from the file 'Coral Cover Phototransects.xlsx'
 11. Data File - 'Coral Cover Phototransects.xlsx'.
-12. R code - 'Phuket CMEMS 008-057 NetCDF data - Grid - Figure S2.R'. This code requires data from the NetCDF file 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'. It is used to produce Figure 2S in the Supplementary Information to the paper. 
-13. Data File - 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'.
-
+12. R code - 'Phototransect Amalysis - GAMM models.R'. This code requires data from 'Coral Cover and Covariates.csv'. After computing GAMMS it produces the plots in Figure 7 in the paper.
+13. Data File - 'Coral Cover and Covariates.csv'. 
+14. R code - 'Phuket CMEMS 008-057 NetCDF data - Grid - Figure S2.R'. This code requires data from the NetCDF file 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'. It is used to produce Figure 2S in the Supplementary Information to the paper. 
+15. Data File - 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'.
+16. Additional Information on the Datasets and Modelling. This PDF contains additional information about (1) the Indian Ocean Dipole, (2) El Nino Southern Oscillation, (3) the satellite altimetry and the data used for both. It then contains a record of the detailed GAMM modelling which the R code above runs, including details of the data exploration and model validation. This file will assist anyone who wishes to run the R code for themselves. 
