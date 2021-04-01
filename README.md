@@ -15,5 +15,6 @@ Contents:
 4. Data File - 'Nino 3.4 to 13 Jan 2021.nc'.  
 5. R code - 'Plotting of Phototransect Results Figures 5 & 6.R'. This code is used to produce Figures 5 and 6 and requires data from the file 'Coral Cover Phototransects.xlsx'
 6. Data File - 'Coral Cover Phototransects.xlsx'.
-7.  
+7. R code - 'Phuket CMEMS 008-057 NetCDF data - Grid - Figure S2.R'. This code requires data from the NetCDF file 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'. It is used to produce Figure 2S in the Supplementary Information to the paper. 
+8. Data File - 'dataset-duacs-rep-global-merged-twosat-phy-l4_1608108067774.nc'.
 
